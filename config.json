@@ -63,11 +63,19 @@
   ],
   {
     "appId": "ca-app-pub-1160729099245901~9072285246",
-    "bannerAdUnitId": "ca-app-pub-3940256099942544/6300978111",
-    "interstitialAdUnitId": "ca-app-pub-3940256099942544/1033173712",
-    "rewardedAdUnitId": "ca-app-pub-3940256099942544/5224354917",
-    "rewardedInterstitialAdUnitId": "ca-app-pub-3940256099942544/5354046379",
-    "nativeAdUnitId": "ca-app-pub-3940256099942544/2247696110",
+    "bannerAdUnitId": "",
+    "interstitialAdUnitId": "",
+    "rewardedAdUnitId": "",
+    "rewardedInterstitialAdUnitId": "",
+    "nativeAdUnitId": "",
     "testMode": true
-  }
+  },
+  {
+    "appId": "203383743",
+    "enableBanner": true,
+    "enableInterstitial": true,
+    "enableRewarded": true,
+    "enableNative": true,
+    "testMode": true
+    }
 ]
