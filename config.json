@@ -76,6 +76,6 @@
     "enableInterstitial": true,
     "enableRewarded": true,
     "enableNative": true,
-    "testMode": true
+    "testMode": false
     }
 ]
